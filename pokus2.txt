@@ -1,2 +1,5 @@
 uz pijem
 toto je zmena
+
+dalsi riadok
+
